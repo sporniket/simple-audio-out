@@ -12,7 +12,7 @@ Content
 
 ## 1. What is **Simple Audio Out**, and when to use it ?
 
-**Simple Audio Out** is a ...
+**Simple Audio Out** is a simple audio output circuit for a 4 Ohm speaker, with volume setting 
 
 
 ### Licence
