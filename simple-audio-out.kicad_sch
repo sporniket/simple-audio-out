@@ -6,8 +6,8 @@
 
   (title_block
     (title "Simple audio out")
-    (date "2024-01-21")
-    (rev "1.0.0-RC1")
+    (date "2024-09-01")
+    (rev "1.0.0")
     (company "Sporniket")
     (comment 3 "https://github.com/sporniket/simple-audio-out.git")
     (comment 4 "original repository")
