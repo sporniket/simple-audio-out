@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "commons-passives_THT")(type "KiCad")(uri "${KIPRJMOD}/kicad-footprints-handmade/commons-passives_THT.pretty")(options "")(descr ""))
   (lib (name "cliparts")(type "KiCad")(uri "${KIPRJMOD}/cliparts.pretty")(options "")(descr ""))
+  (lib (name "holes")(type "KiCad")(uri "${KIPRJMOD}/holes.pretty")(options "")(descr ""))
 )
